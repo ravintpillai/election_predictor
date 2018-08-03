@@ -3,3 +3,17 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.centered {
+  position: relative;
+  left: 50%;
+  width: 400px;
+  height: 300px;
+  padding: 20px;
+  /* bring your own prefixes */
+  transform: translate(-50%);
+}
+
+.center {
+  margin: 0 auto;
+}

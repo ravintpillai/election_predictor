@@ -1,0 +1,651 @@
+index,constituency_name,first_party,second_party,majority,electorate,percentage victory
+406,North East Fife,SNP,LD,2,58685,0.0%
+306,Kensington,Lab,Con,20,60588,0.0%
+444,Perth and North Perthshire,SNP,Con,21,71762,0.0%
+176,Dudley North,Lab,Con,22,62043,0.0%
+383,Newcastle-Under-Lyme,Lab,Con,30,65596,0.0%
+505,"Southampton, Itchen",Con,Lab,31,71722,0.0%
+465,Richmond Park,Con,LD,45,80025,0.1%
+155,Crewe and Nantwich,Lab,Con,48,78895,0.1%
+243,Glasgow South West,SNP,Lab,60,62991,0.1%
+238,Glasgow East,SNP,Lab,75,66242,0.1%
+11,Arfon,PC,Lab,92,41367,0.2%
+123,Ceredigion,PC,LD,104,54262,0.2%
+542,Stirling,Con,SNP,148,66415,0.2%
+230,Foyle,SF,SDLP,169,70324,0.2%
+110,Canterbury,Lab,Con,187,78182,0.2%
+4,Airdrie and Shotts,SNP,Lab,195,64146,0.3%
+24,Barrow and Furness,Lab,Con,209,69474,0.3%
+304,Keighley,Lab,Con,239,71429,0.3%
+240,Glasgow North East,Lab,SNP,242,59931,0.4%
+314,Kirkcaldy and Cowdenbeath,Lab,SNP,259,72721,0.4%
+480,Rutherglen and Hamilton West,Lab,SNP,265,80098,0.3%
+317,Lanark and Hamilton East,SNP,Con,266,77313,0.3%
+543,St Ives,Con,LD,312,67145,0.5%
+453,Preseli Pembrokeshire,Con,Lab,314,58554,0.5%
+378,Motherwell and Wishaw,SNP,Lab,318,68215,0.5%
+455,Pudsey,Con,Lab,331,72622,0.5%
+573,Thurrock,Con,Lab,345,78154,0.4%
+270,Hastings and Rye,Con,Lab,346,78319,0.4%
+135,Chipping Barnet,Con,Lab,353,77218,0.5%
+296,Inverclyde,SNP,Lab,384,58853,0.7%
+14,Ashfield,Lab,Con,441,78076,0.6%
+55,Bishop Auckland,Lab,Con,502,67661,0.7%
+424,Norwich North,Con,Lab,507,66924,0.8%
+445,Peterborough,Lab,Con,607,71522,0.8%
+105,Calder Valley,Con,Lab,609,79045,0.8%
+1,Aberconwy,Con,Lab,635,45251,1.4%
+549,Stoke-On-Trent South,Con,Lab,663,66057,1.0%
+556,Stroud,Lab,Con,687,82839,0.8%
+567,Telford,Con,Lab,720,68106,1.1%
+619,Westmorland and Lonsdale,LD,Con,777,66391,1.2%
+33,Bedford,Lab,Con,789,71829,1.1%
+394,Northampton North,Con,Lab,807,58861,1.4%
+438,Oxford West and Abingdon,LD,Con,816,75574,1.1%
+298,Ipswich,Lab,Con,831,75668,1.1%
+183,Dunfermline and West Fife,SNP,Lab,844,75672,1.1%
+96,Broxtowe,Con,Lab,863,74013,1.2%
+225,Fermanagh and South Tyrone,SF,UUP,875,70601,1.2%
+364,Midlothian,Lab,SNP,885,68328,1.3%
+546,Stockton South,Lab,Con,888,75625,1.2%
+147,Colne Valley,Lab,Con,915,84387,1.1%
+67,Bolton West,Con,Lab,936,72797,1.3%
+379,Na h-Eileanan An Iar,SNP,Lab,1007,21301,4.7%
+362,Middlesbrough South and East Cleveland,Con,Lab,1020,72336,1.4%
+355,Mansfield,Con,Lab,1057,77811,1.4%
+239,Glasgow North,SNP,Lab,1060,53862,2.0%
+276,Hendon,Con,Lab,1072,76522,1.4%
+207,Edinburgh South West,SNP,Con,1097,71178,1.5%
+395,Northampton South,Con,Lab,1159,61766,1.9%
+601,Warwick and Leamington,Lab,Con,1206,74237,1.6%
+401,North Down,Ind,DUP,1208,64334,1.9%
+120,Central Ayrshire,SNP,Con,1267,68999,1.8%
+441,Pendle,Con,Lab,1279,64962,2.0%
+442,Penistone and Stocksbridge,Lab,Con,1322,71293,1.9%
+12,Argyll and Bute,SNP,Con,1328,67230,2.0%
+118,Carshalton and Wallington,LD,Con,1369,70849,1.9%
+376,Morecambe and Lunesdale,Con,Lab,1399,66818,2.1%
+334,Lincoln,Lab,Con,1538,73111,2.1%
+456,Putney,Con,Lab,1554,65031,2.4%
+452,Portsmouth South,Lab,Con,1554,69785,2.2%
+107,Camborne and Redruth,Con,Lab,1577,68419,2.3%
+145,"Coatbridge, Chryston and Bellshill",Lab,SNP,1586,71198,2.2%
+190,Eastbourne,LD,Con,1609,78754,2.0%
+205,Edinburgh North and Leith,SNP,Lab,1625,79473,2.0%
+227,Finchley and Golders Green,Con,Lab,1657,73329,2.3%
+370,Milton Keynes South,Con,Lab,1665,92417,1.8%
+149,Copeland,Con,Lab,1695,61751,2.7%
+266,Harrow East,Con,Lab,1757,71755,2.4%
+641,Wrexham,Lab,Con,1832,49881,3.7%
+369,Milton Keynes North,Con,Lab,1975,89207,2.2%
+36,Belfast South,DUP,SDLP,1996,66105,3.0%
+167,Derby North,Lab,Con,2015,69919,2.9%
+58,Blackpool North and Cleveleys,Con,Lab,2023,63967,3.2%
+242,Glasgow South,SNP,Lab,2027,69126,2.9%
+104,"Caithness, Sutherland and Easter Ross",LD,SNP,2044,46868,4.4%
+35,Belfast North,DUP,SF,2081,68249,3.0%
+603,Watford,Con,Lab,2092,86507,2.4%
+377,Morley and Outwood,Con,Lab,2104,76495,2.8%
+493,"Sheffield, Hallam",Lab,LD,2125,73455,2.9%
+591,Wakefield,Lab,Con,2176,70340,3.1%
+636,Wolverhampton South West,Lab,Con,2185,59971,3.6%
+589,Vale Of Glamorgan,Con,Lab,2190,73959,3.0%
+237,Glasgow Central,SNP,Lab,2267,64346,3.5%
+615,West Dunbartonshire,SNP,Lab,2288,67602,3.4%
+283,High Peak,Lab,Con,2322,73248,3.2%
+548,Stoke-On-Trent North,Lab,Con,2359,71558,3.3%
+588,Vale Of Clwyd,Lab,Con,2379,56890,4.2%
+30,Battersea,Lab,Con,2416,77574,3.1%
+133,Chingford and Woodford Green,Con,Lab,2438,65958,3.7%
+512,South Down,SF,SDLP,2446,75685,3.2%
+154,Crawley,Con,Lab,2457,73425,3.3%
+525,South Swindon,Con,Lab,2464,72372,3.4%
+637,Worcester,Con,Lab,2508,73893,3.4%
+59,Blackpool South,Lab,Con,2523,58470,4.3%
+440,Paisley and Renfrewshire South,SNP,Lab,2541,61344,4.1%
+600,Warrington South,Lab,Con,2549,85617,3.0%
+241,Glasgow North West,SNP,Lab,2561,63773,4.0%
+251,Great Grimsby,Lab,Con,2565,61743,4.2%
+129,Cheltenham,Con,LD,2569,78878,3.3%
+115,Carlisle,Con,Lab,2599,62294,4.2%
+593,Walsall North,Con,Lab,2601,67308,3.9%
+246,Gordon,Con,SNP,2607,78531,3.3%
+439,Paisley and Renfrewshire North,SNP,Lab,2613,67436,3.9%
+10,Angus,Con,SNP,2645,63840,4.1%
+150,Corby,Con,Lab,2690,83020,3.2%
+18,"Ayr, Carrick and Cumnock",Con,SNP,2774,71241,3.9%
+405,North East Derbyshire,Con,Lab,2860,72097,4.0%
+459,Reading West,Con,Lab,2876,74523,3.9%
+520,Southport,Con,Lab,2914,69400,4.2%
+335,Linlithgow and East Falkirk,SNP,Lab,2919,86186,3.4%
+208,Edinburgh West,LD,SNP,2988,71500,4.2%
+198,East Lothian,Lab,SNP,3083,79093,3.9%
+117,Carmarthen West and South Pembrokeshire,Con,Lab,3110,58565,5.3%
+138,Cities Of London and Westminster,Con,Lab,3148,61533,5.1%
+507,South Antrim,DUP,UUP,3208,68244,4.7%
+472,Rossendale and Darwen,Con,Lab,3216,72486,4.4%
+244,Glenrothes,SNP,Lab,3267,66378,4.9%
+248,Gower,Lab,Con,3269,62163,5.3%
+162,Darlington,Lab,Con,3280,66341,4.9%
+171,Dewsbury,Lab,Con,3321,81343,4.1%
+430,Ochil and South Perthshire,Con,SNP,3359,76767,4.4%
+539,Stevenage,Con,Lab,3386,70765,4.8%
+204,Edinburgh East,SNP,Lab,3425,65896,5.2%
+486,Scunthorpe,Lab,Con,3431,61578,5.6%
+485,Scarborough and Whitby,Con,Lab,3435,73599,4.7%
+144,Clwyd West,Con,Lab,3437,58263,5.9%
+411,North Norfolk,LD,Con,3512,69271,5.1%
+397,North Ayrshire and Arran,SNP,Con,3633,73176,5.0%
+20,Banff and Buchan,Con,SNP,3693,67601,5.5%
+458,Reading East,Lab,Con,3749,75537,5.0%
+582,Truro and Falmouth,Con,Lab,3792,74683,5.1%
+65,Bolton North East,Lab,Con,3797,67233,5.6%
+195,"East Kilbride, Strathaven and Lesmahagow",SNP,Lab,3866,80442,4.8%
+340,Livingston,SNP,Lab,3878,81208,4.8%
+475,Rother Valley,Lab,Con,3882,75230,5.2%
+547,Stoke-On-Trent Central,Lab,Con,3897,56915,6.8%
+116,Carmarthen East and Dinefwr,PC,Lab,3908,55976,7.0%
+638,Workington,Lab,Con,3925,60265,6.5%
+606,Weaver Vale,Lab,Con,3928,69016,5.7%
+309,Kingston and Surbiton,LD,Con,4124,81588,5.1%
+2,Aberdeen North,SNP,Lab,4139,62130,6.7%
+375,Moray,Con,SNP,4159,70649,5.9%
+112,Cardiff North,Lab,Con,4174,67221,6.2%
+226,Filton and Bradley Stoke,Con,Lab,4190,72483,5.8%
+322,Leeds North West,Lab,LD,4224,68152,6.2%
+165,Delyn,Lab,Con,4240,54090,7.8%
+159,"Cumbernauld, Kilsyth and Kirkintilloch East",SNP,Lab,4264,66554,6.4%
+342,Loughborough,Con,Lab,4269,79607,5.4%
+399,North Devon,Con,LD,4332,75801,5.7%
+214,"Enfield, Southgate",Lab,Con,4355,65210,6.7%
+143,Clwyd South,Lab,Con,4356,53729,8.1%
+100,Bury North,Lab,Con,4375,67580,6.5%
+613,West Bromwich West,Lab,Con,4460,65967,6.8%
+126,Cheadle,Con,LD,4507,73406,6.1%
+217,Erewash,Con,Lab,4534,72995,6.2%
+435,Orkney and Shetland,LD,SNP,4563,34164,13.4%
+634,Wolverhampton North East,Lab,Con,4587,60770,7.5%
+161,Dagenham and Rainham,Lab,Con,4652,70616,6.6%
+51,"Birmingham, Northfield",Lab,Con,4667,72322,6.5%
+497,Shipley,Con,Lab,4681,73133,6.4%
+235,Gedling,Lab,Con,4694,71223,6.6%
+83,Bridgend,Lab,Con,4700,62185,7.6%
+199,East Renfrewshire,Con,SNP,4712,70067,6.7%
+429,Nuneaton,Con,Lab,4739,69201,6.8%
+3,Aberdeen South,Con,SNP,4752,64964,7.3%
+89,Bristol North West,Lab,Con,4761,75434,6.3%
+184,Dwyfor Meirionnydd,PC,Con,4850,44699,10.9%
+27,Bassetlaw,Lab,Con,4852,78540,6.2%
+221,Falkirk,SNP,Lab,4923,82240,6.0%
+297,"Inverness, Nairn, Badenoch and Strathspey",SNP,Con,4924,76844,6.4%
+446,"Plymouth, Moor View",Con,Lab,5019,69342,7.2%
+587,Uxbridge and South Ruislip,Con,Lab,5034,69936,7.2%
+201,East Worthing and Shoreham,Con,Lab,5106,75525,6.8%
+174,Don Valley,Lab,Con,5169,73990,7.0%
+496,Sherwood,Con,Lab,5198,76196,6.8%
+8,Alyn and Deeside,Lab,Con,5235,63013,8.3%
+257,Halesowen and Rowley Regis,Con,Lab,5253,68856,7.6%
+647,Ynys Mon,Lab,Con,5259,52921,9.9%
+182,Dundee West,SNP,Lab,5262,62644,8.4%
+64,Bolsover,Lab,Con,5288,73429,7.2%
+192,East Dunbartonshire,LD,SNP,5339,66300,8.1%
+629,Wirral West,Lab,Con,5365,55995,9.6%
+258,Halifax,Lab,Con,5376,71224,7.5%
+328,Lewes,Con,LD,5508,70941,7.8%
+273,Hazel Grove,Con,LD,5514,63166,8.7%
+245,Gloucester,Con,Lab,5520,82965,6.7%
+469,Rochford and Southend East,Con,Lab,5548,73501,7.5%
+625,Wimbledon,Con,Lab,5622,66780,8.4%
+179,Dumfries and Galloway,Con,SNP,5643,74206,7.6%
+156,Croydon Central,Lab,Con,5652,80045,7.1%
+390,Newport West,Lab,Con,5658,64399,8.8%
+146,Colchester,Con,Lab,5677,79996,7.1%
+28,Bath,LD,Con,5694,66778,8.5%
+293,Hyndburn,Lab,Con,5815,71608,8.1%
+473,"Ross, Skye and Lochaber",SNP,Con,5919,53638,11.0%
+101,Bury South,Lab,Con,5965,73715,8.1%
+487,Sedgefield,Lab,Con,6059,63889,9.5%
+536,St Albans,Con,LD,6109,72811,8.4%
+308,Kilmarnock and Loudoun,SNP,Lab,6269,73327,8.5%
+212,Eltham,Lab,Con,6296,64474,9.8%
+98,Burnley,Lab,Con,6353,64709,9.8%
+526,South Thanet,Con,Lab,6387,72334,8.8%
+7,Altrincham and Sale West,Con,Lab,6426,73226,8.8%
+175,Dover,Con,Lab,6437,74564,8.6%
+642,Wycombe,Con,Lab,6578,77087,8.5%
+498,Shrewsbury and Atcham,Con,Lab,6627,79043,8.4%
+181,Dundee East,SNP,Con,6645,65854,10.1%
+318,Lancaster and Fleetwood,Lab,Con,6661,67154,9.9%
+75,Bradford South,Lab,Con,6700,67752,9.9%
+447,"Plymouth, Sutton and Devonport",Lab,Con,6807,76584,8.9%
+46,"Birmingham, Edgbaston",Lab,Con,6917,68091,10.2%
+264,Harlow,Con,Lab,7031,67699,10.4%
+398,North Cornwall,Con,LD,7200,68844,10.5%
+47,"Birmingham, Erdington",Lab,Con,7285,65067,11.2%
+461,Redditch,Con,Lab,7363,64413,11.4%
+609,Welwyn Hatfield,Con,Lab,7369,72888,10.1%
+521,South Ribble,Con,Lab,7421,75752,9.8%
+313,Kingswood,Con,Lab,7500,69368,10.8%
+136,Chorley,Lab,Con,7512,76404,9.8%
+608,Wells,Con,LD,7582,82451,9.2%
+282,Heywood and Middleton,Lab,Con,7617,79901,9.5%
+268,Hartlepool,Lab,Con,7650,70718,10.8%
+551,Stourbridge,Con,Lab,7654,70215,10.9%
+72,Bournemouth West,Con,Lab,7711,73195,10.5%
+612,West Bromwich East,Lab,Con,7713,63846,12.1%
+534,Stafford,Con,Lab,7729,68445,11.3%
+177,Dudley South,Con,Lab,7730,61323,12.6%
+62,Blyth Valley,Lab,Con,7915,63415,12.5%
+71,Bournemouth East,Con,Lab,7937,74591,10.6%
+153,Coventry South,Lab,Con,7947,70736,11.2%
+611,West Aberdeenshire and Kincardine,Con,SNP,7950,72477,11.0%
+252,Great Yarmouth,Con,Lab,7973,71408,11.2%
+586,Upper Bann,DUP,SF,7992,80168,10.0%
+389,Newport East,Lab,Con,8003,57233,14.0%
+479,Rushcliffe,Con,Lab,8010,74738,10.7%
+312,Kingston upon Hull West and Hessle,Lab,Con,8025,60181,13.3%
+191,East Devon,Con,Ind,8036,82369,9.8%
+78,Brecon and Radnorshire,Con,LD,8038,56010,14.4%
+537,Stalybridge and Hyde,Lab,Con,8084,71409,11.3%
+433,Oldham East and Saddleworth,Lab,Con,8182,72184,11.3%
+128,Chelsea and Fulham,Con,Lab,8188,63728,12.8%
+373,Monmouth,Con,Lab,8206,64909,12.6%
+476,Rugby,Con,Lab,8212,72175,11.4%
+649,York Outer,Con,Lab,8289,75835,10.9%
+9,Amber Valley,Con,Lab,8300,68065,12.2%
+628,Wirral South,Lab,Con,8323,57670,14.4%
+414,North Swindon,Con,Lab,8335,80168,10.4%
+639,Worsley and Eccles South,Lab,Con,8379,73689,11.4%
+109,Cannock Chase,Con,Lab,8391,74540,11.3%
+34,Belfast East,DUP,Alliance,8474,63495,13.3%
+417,North Warwickshire,Con,Lab,8510,72277,11.8%
+635,Wolverhampton South East,Lab,Con,8514,60301,14.1%
+152,Coventry North West,Lab,Con,8580,75196,11.4%
+347,Macclesfield,Con,Lab,8608,75228,11.4%
+545,Stockton North,Lab,Con,8715,66285,13.1%
+419,North West Durham,Lab,Con,8792,71918,12.2%
+197,East Londonderry,DUP,SF,8842,67038,13.2%
+594,Walsall South,Lab,Con,8892,67417,13.2%
+29,Batley and Spen,Lab,Con,8961,80161,11.2%
+44,Bexleyheath and Crayford,Con,Lab,9073,65315,13.9%
+139,City Of Chester,Lab,Con,9176,72859,12.6%
+604,Waveney,Con,Lab,9215,80763,11.4%
+281,Hexham,Con,Lab,9236,61053,15.1%
+374,Montgomeryshire,Con,LD,9285,50755,18.3%
+250,Gravesham,Con,Lab,9347,72954,12.8%
+236,Gillingham and Rainham,Con,Lab,9430,72903,12.9%
+180,"Dumfriesshire, Clydesdale and Tweeddale",Con,SNP,9441,67672,14.0%
+274,Hemel Hempstead,Con,Lab,9445,74415,12.7%
+26,Basingstoke,Con,Lab,9466,81875,11.6%
+460,Redcar,Lab,Con,9485,66836,14.2%
+229,Forest Of Dean,Con,Lab,9502,70898,13.4%
+327,Leigh,Lab,Con,9554,76202,12.5%
+570,The Wrekin,Con,Lab,9564,68604,13.9%
+599,Warrington North,Lab,Con,9582,71918,13.3%
+93,Bromley and Chislehurst,Con,Lab,9590,65117,14.7%
+131,Chesterfield,Lab,Con,9605,72069,13.3%
+294,Ilford North,Lab,Con,9639,72997,13.2%
+584,Twickenham,LD,Con,9762,83362,11.7%
+211,Elmet and Rothwell,Con,Lab,9805,80291,12.2%
+468,Rochester and Strood,Con,Lab,9850,82702,11.9%
+86,"Brighton, Kemptown",Lab,Con,9868,67893,14.5%
+451,Portsmouth North,Con,Lab,9965,71374,14.0%
+558,Sunderland Central,Lab,Con,9997,72728,13.7%
+626,Winchester,Con,LD,9999,72497,13.8%
+515,Southend West,Con,Lab,10000,67677,14.8%
+218,Erith and Thamesmead,Lab,Con,10014,69724,14.4%
+99,Burton,Con,Lab,10047,73954,13.6%
+172,Doncaster Central,Lab,Con,10131,71718,14.1%
+275,Hemsworth,Lab,Con,10174,71870,14.2%
+409,North East Somerset,Con,Lab,10235,71355,14.3%
+578,Torfaen,Lab,Con,10240,61839,16.6%
+213,Enfield North,Lab,Con,10247,68076,15.1%
+622,West Tyrone,SF,DUP,10342,64009,16.2%
+386,Newcastle Upon Tyne North,Lab,Con,10349,66073,15.7%
+310,Kingston upon Hull East,Lab,Con,10396,65959,15.8%
+142,Cleethorpes,Con,Lab,10400,72711,14.3%
+596,Wansbeck,Lab,Con,10435,62151,16.8%
+125,Chatham and Aylesford,Con,Lab,10458,70419,14.9%
+307,Kettering,Con,Lab,10562,71440,14.8%
+563,Swansea West,Lab,Con,10598,56892,18.6%
+415,North Thanet,Con,Lab,10738,72651,14.8%
+535,Staffordshire Moorlands,Con,Lab,10830,63260,17.1%
+39,"Berwickshire, Roxburgh and Selkirk",Con,SNP,11060,73191,15.1%
+326,Leicester West,Lab,Con,11060,64843,17.1%
+538,St Austell and Newquay,Con,Lab,11142,78609,14.2%
+427,Nottingham North,Lab,Con,11160,66886,16.7%
+169,Derby South,Lab,Con,11248,69918,16.1%
+16,Ashton-Under-Lyne,Lab,Con,11295,67674,16.7%
+474,Rotherham,Lab,Con,11387,63237,18.0%
+210,Ellesmere Port and Neston,Lab,Con,11390,68666,16.6%
+158,Croydon South,Con,Lab,11406,83518,13.7%
+302,Islwyn,Lab,Con,11412,56256,20.3%
+448,Pontypridd,Lab,Con,11448,60564,18.9%
+5,Aldershot,Con,Lab,11473,76205,15.1%
+508,South Basildon and East Thurrock,Con,Lab,11490,73537,15.6%
+506,"Southampton, Test",Lab,Con,11503,70199,16.4%
+618,Westminster North,Lab,Con,11512,63846,18.0%
+620,Weston-Super-Mare,Con,Lab,11544,82136,14.1%
+360,Mid Derbyshire,Con,Lab,11616,67466,17.2%
+585,Tynemouth,Lab,Con,11666,77434,15.1%
+617,West Lancashire,Lab,Con,11689,73257,16.0%
+511,South Dorset,Con,Lab,11695,75553,15.5%
+40,Berwick-Upon-Tweed,Con,Lab,11781,58807,20.0%
+495,Sheffield South East,Lab,Con,11798,68945,17.1%
+231,Fylde,Con,Lab,11805,65937,17.9%
+60,Blaenau Gwent,Lab,PC,11907,51227,23.2%
+203,Eddisbury,Con,Lab,11942,70272,17.0%
+510,South Derbyshire,Con,Lab,11970,76380,15.7%
+291,Huddersfield,Lab,Con,12005,67037,17.9%
+341,Llanelli,Lab,Con,12024,59434,20.2%
+284,Hitchin and Harpenden,Con,Lab,12031,75916,15.8%
+572,Thornbury and Yate,Con,LD,12071,67892,17.8%
+103,Caerphilly,Lab,Con,12078,64381,18.8%
+640,Worthing West,Con,Lab,12090,77757,15.5%
+80,Brentford and Isleworth,Lab,Con,12182,85164,14.3%
+643,Wyre and Preston North,Con,Lab,12246,72319,16.9%
+289,Houghton and Sunderland South,Lab,Con,12341,68123,18.1%
+564,Tamworth,Con,Lab,12347,71308,17.3%
+85,Brigg and Goole,Con,Lab,12363,66069,18.7%
+140,City Of Durham,Lab,Con,12364,71132,17.4%
+19,Banbury,Con,Lab,12399,83824,14.8%
+263,Harborough,Con,Lab,12429,78810,15.8%
+607,Wellingborough,Con,Lab,12460,79254,15.7%
+391,Newry and Armagh,SF,DUP,12489,78266,16.0%
+114,Cardiff West,Lab,Con,12551,66775,18.8%
+148,Congleton,Con,Lab,12619,76694,16.5%
+380,Neath,Lab,Con,12631,55862,22.6%
+108,Cambridge,Lab,LD,12661,78544,16.1%
+560,Sutton and Cheam,Con,LD,12698,70404,18.0%
+320,Leeds East,Lab,Con,12752,65950,19.3%
+367,Mid Ulster,SF,DUP,12890,68485,18.8%
+402,North Durham,Lab,Con,12939,66970,19.3%
+602,Washington and Sunderland West,Lab,Con,12940,67280,19.2%
+38,Bermondsey and Old Southwark,Lab,LD,12972,87282,14.9%
+66,Bolton South East,Lab,Con,13126,68886,19.1%
+562,Swansea East,Lab,Con,13168,58521,22.5%
+163,Dartford,Con,Lab,13186,78506,16.8%
+464,Ribble Valley,Con,Lab,13199,77968,16.9%
+160,Cynon Valley,Lab,Con,13238,51334,25.8%
+23,Barnsley East,Lab,Con,13283,69214,19.2%
+421,North West Leicestershire,Con,Lab,13286,75362,17.6%
+267,Harrow West,Lab,Con,13314,69797,19.1%
+644,Wyre Forest,Con,Lab,13334,77758,17.1%
+88,Bristol East,Lab,Con,13394,72415,18.5%
+25,Basildon and Billericay,Con,Lab,13400,69149,19.4%
+533,Spelthorne,Con,Lab,13425,72641,18.5%
+61,Blaydon,Lab,Con,13477,68459,19.7%
+580,Totnes,Con,Lab,13477,68914,19.6%
+350,Makerfield,Lab,Con,13542,74259,18.2%
+127,Chelmsford,Con,Lab,13572,81032,16.7%
+463,Rhondda,Lab,PC,13746,50514,27.2%
+489,Selby and Ainsty,Con,Lab,13772,75918,18.1%
+470,Romford,Con,Lab,13778,73493,18.7%
+422,North West Norfolk,Con,Lab,13788,72062,19.1%
+185,Ealing Central and Acton,Lab,Con,13807,74200,18.6%
+494,"Sheffield, Heeley",Lab,Con,13828,68040,20.3%
+431,Ogmore,Lab,Con,13871,57125,24.3%
+361,Middlesbrough,Lab,Con,13873,61059,22.7%
+346,Luton South,Lab,Con,13925,67188,20.7%
+477,"Ruislip, Northwood and Pinner",Con,Lab,13980,73427,19.0%
+173,Doncaster North,Lab,Con,14024,72377,19.4%
+42,Beverley and Holderness,Con,Lab,14042,80657,17.4%
+166,Denton and Reddish,Lab,Con,14077,65751,21.4%
+527,South West Bedfordshire,Con,Lab,14168,79658,17.8%
+196,Eastleigh,Con,LD,14179,81212,17.5%
+449,Poole,Con,Lab,14209,73796,19.3%
+577,Torbay,Con,LD,14283,75931,18.8%
+6,Aldridge-Brownhills,Con,Lab,14307,60363,23.7%
+311,Kingston upon Hull North,Lab,Con,14322,64665,22.1%
+168,Derbyshire Dales,Con,Lab,14327,64430,22.2%
+269,Harwich and North Essex,Con,Lab,14356,71294,20.1%
+345,Luton North,Lab,Con,14364,66811,21.5%
+292,Huntingdon,Con,Lab,14475,84273,17.2%
+544,Stockport,Lab,Con,14477,64236,22.5%
+393,"Normanton, Pontefract and Castleford",Lab,Con,14499,81641,17.8%
+522,South Shields,Lab,Con,14508,63433,22.9%
+17,Aylesbury,Con,Lab,14656,82546,17.8%
+87,"Brighton, Pavilion",Green,Lab,14699,75486,19.5%
+646,Yeovil,Con,LD,14723,82916,17.8%
+565,Tatton,Con,Lab,14787,67874,21.8%
+610,Wentworth and Dearne,Lab,Con,14803,74890,19.8%
+467,Rochdale,Lab,Con,14819,78064,19.0%
+113,Cardiff South and Penarth,Lab,Con,14864,76499,19.4%
+188,Easington,Lab,Con,14892,62385,23.9%
+384,Newcastle Upon Tyne Central,Lab,Con,14937,55368,27.0%
+645,Wythenshawe and Sale East,Lab,Con,14944,76361,19.6%
+202,East Yorkshire,Con,Lab,15006,81065,18.5%
+278,Hereford and South Herefordshire,Con,Lab,15013,71088,21.1%
+32,Beckenham,Con,Lab,15087,67925,22.2%
+428,Nottingham South,Lab,Con,15162,71182,21.3%
+53,"Birmingham, Selly Oak",Lab,Con,15207,74370,20.4%
+499,Sittingbourne and Sheppey,Con,Lab,15211,81717,18.6%
+561,Sutton Coldfield,Con,Lab,15339,75652,20.3%
+363,Mid Dorset and North Poole,Con,LD,15339,65050,23.6%
+259,Haltemprice and Howden,Con,Lab,15405,71519,21.5%
+228,Folkestone and Hythe,Con,Lab,15411,86272,17.9%
+84,Bridgwater and West Somerset,Con,Lab,15448,89294,17.3%
+576,Tooting,Lab,Con,15458,77971,19.8%
+432,Old Bexley and Sidcup,Con,Lab,15466,66005,23.4%
+206,Edinburgh South,Lab,SNP,15514,64553,24.0%
+22,Barnsley Central,Lab,Con,15546,64204,24.2%
+262,Hampstead and Kilburn,Lab,Con,15560,82957,18.8%
+151,Coventry North East,Lab,Con,15580,75759,20.6%
+425,Norwich South,Lab,Con,15596,74182,21.0%
+224,Feltham and Heston,Lab,Con,15603,81714,19.1%
+488,Sefton Central,Lab,Con,15618,69019,22.6%
+121,Central Devon,Con,Lab,15680,74370,21.1%
+454,Preston,Lab,Con,15723,57791,27.2%
+95,Broxbourne,Con,Lab,15792,73502,21.5%
+92,Broadland,Con,Lab,15816,77334,20.5%
+528,South West Devon,Con,Lab,15816,71260,22.2%
+141,Clacton,Con,Lab,15828,69263,22.9%
+566,Taunton Deane,Con,LD,15887,85457,18.6%
+443,Penrith and The Border,Con,Lab,15910,65139,24.4%
+189,East Antrim,DUP,Alliance,15923,62908,25.3%
+509,South Cambridgeshire,Con,Lab,15952,85257,18.7%
+271,Havant,Con,Lab,15956,72470,22.0%
+323,Leeds West,Lab,Con,15965,67955,23.5%
+90,Bristol South,Lab,Con,15987,83012,19.3%
+557,Suffolk Coastal,Con,Lab,16012,79366,20.2%
+73,Bracknell,Con,Lab,16016,79199,20.2%
+624,Wigan,Lab,Con,16027,75359,21.3%
+365,Mid Norfolk,Con,Lab,16086,80027,20.1%
+220,Exeter,Lab,Con,16117,77330,20.8%
+513,South East Cambridgeshire,Con,Lab,16158,86121,18.8%
+358,Merthyr Tydfil and Rhymney,Lab,Con,16334,55463,29.5%
+124,Charnwood,Con,Lab,16341,78071,20.9%
+412,North Shropshire,Con,Lab,16355,80535,20.3%
+583,Tunbridge Wells,Con,Lab,16465,74782,22.0%
+598,Warley,Lab,Con,16483,63739,25.9%
+69,Boston and Skegness,Con,Lab,16572,68402,24.2%
+94,Bromsgrove,Con,Lab,16573,73571,22.5%
+54,"Birmingham, Yardley",Lab,Con,16574,72581,22.8%
+134,Chippenham,Con,LD,16630,76432,21.8%
+518,South Norfolk,Con,Lab,16678,83055,20.1%
+632,Woking,Con,Lab,16724,76170,22.0%
+0,Aberavon,Lab,Con,16761,49892,33.6%
+408,North East Hertfordshire,Con,Lab,16835,75965,22.2%
+280,Hertsmere,Con,Lab,16951,73561,23.0%
+321,Leeds North East,Lab,Con,16991,70112,24.2%
+502,Slough,Lab,Con,16998,83272,20.4%
+232,Gainsborough,Con,Lab,17023,75893,22.4%
+254,Guildford,Con,LD,17040,75291,22.6%
+81,Brent North,Lab,Con,17061,82567,20.7%
+621,West Suffolk,Con,Lab,17063,77348,22.1%
+413,North Somerset,Con,Lab,17103,80529,21.2%
+392,Newton Abbot,Con,Lab,17160,71714,23.9%
+122,Central Suffolk and North Ipswich,Con,Lab,17185,78116,22.0%
+111,Cardiff Central,Lab,Con,17196,59288,29.0%
+434,Oldham West and Royton,Lab,Con,17198,72401,23.8%
+247,Gosport,Con,Lab,17211,74152,23.2%
+303,Jarrow,Lab,Con,17263,64778,26.6%
+484,Salisbury,Con,Lab,17333,72892,23.8%
+234,Gateshead,Lab,Con,17350,65186,26.6%
+597,Wantage,Con,Lab,17380,85786,20.3%
+223,Faversham and Mid Kent,Con,Lab,17413,72205,24.1%
+514,South East Cornwall,Con,Lab,17443,71880,24.3%
+15,Ashford,Con,Lab,17478,87387,20.0%
+63,Bognor Regis and Littlehampton,Con,Lab,17494,75827,23.1%
+550,Stone,Con,Lab,17495,67824,25.8%
+462,Reigate,Con,Lab,17614,74628,23.6%
+286,Hornchurch and Upminster,Con,Lab,17723,80802,21.9%
+349,Maidstone and The Weald,Con,Lab,17723,75334,23.5%
+524,South Suffolk,Con,Lab,17749,75485,23.5%
+418,North West Cambridgeshire,Con,Lab,18008,93221,19.3%
+471,Romsey and Southampton North,Con,LD,18046,67186,26.9%
+478,Runnymede and Weybridge,Con,Lab,18050,74888,24.1%
+305,Kenilworth and Southam,Con,Lab,18076,66319,27.3%
+272,Hayes and Harlington,Lab,Con,18115,73268,24.7%
+381,Newark,Con,Lab,18149,75510,24.0%
+265,Harrogate and Knaresborough,Con,LD,18168,77280,23.5%
+215,Epping Forest,Con,Lab,18243,74737,24.4%
+530,South West Norfolk,Con,Lab,18312,77874,23.5%
+532,South West Wiltshire,Con,Lab,18326,76898,23.8%
+552,Strangford,DUP,Alliance,18343,64327,28.5%
+70,Bosworth,Con,Lab,18351,81661,22.5%
+52,"Birmingham, Perry Barr",Lab,Con,18383,70106,26.2%
+540,St Helens North,Lab,Con,18406,76088,24.2%
+77,Braintree,Con,Lab,18422,75316,24.5%
+102,Bury St Edmunds,Con,Lab,18441,86071,21.4%
+648,York Central,Lab,Con,18575,77315,24.0%
+333,Lichfield,Con,Lab,18581,74430,25.0%
+517,South Leicestershire,Con,Lab,18631,78985,23.6%
+630,Witham,Con,Lab,18646,69137,27.0%
+261,Hammersmith,Lab,Con,18651,72803,25.6%
+290,Hove,Lab,Con,18757,74236,25.3%
+633,Wokingham,Con,Lab,18798,79111,23.8%
+119,Castle Point,Con,Lab,18872,69470,27.2%
+571,Thirsk and Malton,Con,Lab,19001,78670,24.2%
+279,Hertford and Stortford,Con,Lab,19035,82339,23.1%
+614,West Dorset,Con,LD,19091,79048,24.2%
+483,Salford and Eccles,Lab,Con,19132,78080,24.5%
+491,"Sheffield, Brightside and Hillsborough",Lab,Con,19143,70344,27.2%
+357,Meriden,Con,Lab,19198,81443,23.6%
+316,Lagan Valley,DUP,UUP,19229,72380,26.6%
+385,Newcastle Upon Tyne East,Lab,Con,19261,61989,31.1%
+416,North Tyneside,Lab,Con,19284,78914,24.4%
+344,Ludlow,Con,Lab,19286,68034,28.3%
+436,Orpington,Con,Lab,19461,67902,28.7%
+529,South West Hertfordshire,Con,Lab,19550,81087,24.1%
+426,Nottingham East,Lab,Con,19590,61760,31.7%
+57,Blackley and Broughton,Lab,Con,19601,71648,27.4%
+343,Louth and Horncastle,Con,Lab,19641,79007,24.9%
+366,Mid Sussex,Con,Lab,19673,84170,23.4%
+186,Ealing North,Lab,Con,19693,74764,26.3%
+555,Stretford and Urmston,Lab,Con,19705,71833,27.4%
+574,Tiverton and Honiton,Con,Lab,19801,80731,24.5%
+500,Skipton and Ripon,Con,Lab,19985,78104,25.6%
+249,Grantham and Stamford,Con,Lab,20094,81740,24.6%
+590,Vauxhall,Lab,LD,20250,82055,24.7%
+301,Islington South and Finsbury,Lab,Con,20263,69536,29.1%
+56,Blackburn,Lab,Con,20368,70664,28.8%
+216,Epsom and Ewell,Con,Lab,20475,80029,25.6%
+74,Bradford East,Lab,Con,20540,70389,29.2%
+503,Solihull,Con,Lab,20571,77789,26.4%
+396,North Antrim,DUP,SF,20643,75657,27.3%
+579,Torridge and West Devon,Con,Lab,20686,80524,25.7%
+253,Greenwich and Woolwich,Lab,Con,20714,77190,26.8%
+403,North East Bedfordshire,Con,Lab,20862,87505,23.8%
+359,Mid Bedfordshire,Con,Lab,20983,84161,24.9%
+299,Isle Of Wight,Con,Lab,21069,110683,19.0%
+209,Edmonton,Lab,Con,21115,65777,32.1%
+170,Devizes,Con,Lab,21136,72184,29.3%
+330,Lewisham East,Lab,Con,21213,68124,31.1%
+631,Witney,Con,Lab,21241,82727,25.7%
+404,North East Cambridgeshire,Con,Lab,21270,84414,25.2%
+623,West Worcestershire,Con,Lab,21328,74375,28.7%
+371,Mitcham and Morden,Lab,Con,21375,68705,31.1%
+222,Fareham,Con,Lab,21555,78837,27.3%
+531,South West Surrey,Con,National Health Action Party,21590,78042,27.7%
+410,North Herefordshire,Con,Lab,21602,67751,31.9%
+21,Barking,Lab,Con,21608,77022,28.1%
+37,Belfast West,SF,DUP,21652,62423,34.7%
+164,Daventry,Con,Lab,21734,75268,28.9%
+76,Bradford West,Lab,Con,21902,67568,32.4%
+490,Sevenoaks,Con,Lab,21917,71565,30.6%
+553,Stratford-On-Avon,Con,Lab,21958,72572,30.3%
+387,New Forest East,Con,Lab,21995,72602,30.3%
+187,"Ealing, Southall",Lab,Con,22090,65188,33.9%
+130,Chesham and Amersham,Con,Lab,22140,71654,30.9%
+43,Bexhill and Battle,Con,Lab,22165,81331,27.3%
+277,Henley,Con,Lab,22294,74997,29.7%
+627,Windsor,Con,Lab,22384,73595,30.4%
+324,Leicester East,Lab,Con,22428,77788,28.8%
+568,Tewkesbury,Con,Lab,22574,81440,27.7%
+332,Leyton and Wanstead,Lab,Con,22607,65149,34.7%
+132,Chichester,Con,Lab,22621,84991,26.6%
+420,North West Hampshire,Con,Lab,22679,81430,27.9%
+523,South Staffordshire,Con,Lab,22733,73441,31.0%
+519,South Northamptonshire,Con,Lab,22840,85759,26.6%
+423,North Wiltshire,Con,LD,22877,71408,32.0%
+504,Somerton and Frome,Con,LD,22906,84437,27.1%
+481,Rutland and Melton,Con,Lab,23104,78463,29.4%
+466,Richmond (Yorks),Con,Lab,23108,80905,28.6%
+331,Lewisham West and Penge,Lab,Con,23162,72899,31.8%
+437,Oxford East,Lab,Con,23284,78350,29.7%
+219,Esher and Walton,Con,Lab,23298,80938,28.8%
+592,Wallasey,Lab,Con,23320,67454,34.6%
+368,Mid Worcestershire,Con,Lab,23326,76057,30.7%
+351,Maldon,Con,Lab,23430,71470,32.8%
+388,New Forest West,Con,Lab,23431,68786,34.1%
+457,Rayleigh and Wickford,Con,Lab,23450,78556,29.9%
+288,Horsham,Con,Lab,23484,82772,28.4%
+575,Tonbridge and Malling,Con,Lab,23508,77417,30.4%
+605,Wealden,Con,Lab,23628,81425,29.0%
+319,Leeds Central,Lab,Con,23698,89537,26.5%
+13,Arundel and South Downs,Con,Lab,23883,79478,30.0%
+200,East Surrey,Con,Lab,23914,82004,29.2%
+82,Brentwood and Ongar,Con,Lab,24002,75067,32.0%
+372,Mole Valley,Con,LD,24137,74545,32.4%
+541,St Helens South and Whiston,Lab,Con,24343,79036,30.8%
+382,Newbury,Con,LD,24380,82924,29.4%
+31,Beaconsfield,Con,Lab,24543,77524,31.7%
+516,South Holland and The Deepings,Con,Lab,24897,76374,32.6%
+559,Surrey Heath,Con,Lab,24943,80764,30.9%
+482,Saffron Walden,Con,Lab,24966,83072,30.1%
+137,Christchurch,Con,Lab,25171,70309,35.8%
+501,Sleaford and North Hykeham,Con,Lab,25237,90929,27.8%
+260,Halton,Lab,Con,25405,73457,34.6%
+569,The Cotswolds,Con,Lab,25499,80449,31.7%
+45,Birkenhead,Lab,Con,25514,64484,39.6%
+356,Meon Valley,Con,Lab,25692,74246,34.6%
+97,Buckingham,Spk,Green,25725,79615,32.3%
+400,North Dorset,Con,Lab,25777,76324,33.8%
+194,East Hampshire,Con,Lab,25852,74151,34.9%
+325,Leicester South,Lab,Con,26261,75534,34.8%
+554,Streatham,Lab,Con,26285,78649,33.4%
+348,Maidenhead,Con,Lab,26457,76076,34.8%
+450,Poplar and Limehouse,Lab,Con,27712,87331,31.7%
+492,Sheffield Central,Lab,Con,27748,77560,35.8%
+407,North East Hampshire,Con,Lab,27772,74576,37.2%
+79,Brent Central,Lab,Con,27997,80499,34.8%
+178,Dulwich and West Norwood,Lab,Con,28156,78037,36.1%
+50,"Birmingham, Ladywood",Lab,Con,28714,70023,41.0%
+338,"Liverpool, Wavertree",Lab,Con,29466,62411,47.2%
+354,"Manchester, Withington",Lab,LD,29875,74654,40.0%
+285,Holborn and St Pancras,Lab,Con,30509,88088,34.6%
+287,Hornsey and Wood Green,Lab,LD,30738,79946,38.4%
+49,"Birmingham, Hodge Hill",Lab,Con,31026,75698,41.0%
+352,Manchester Central,Lab,Con,31445,90261,34.8%
+295,Ilford South,Lab,Con,31647,85358,37.1%
+353,"Manchester, Gorton",Lab,Con,31730,75362,42.1%
+595,Walthamstow,Lab,Con,32017,67957,47.1%
+233,Garston and Halewood,Lab,Con,32149,75248,42.7%
+157,Croydon North,Lab,Con,32365,87461,37.0%
+337,"Liverpool, Walton",Lab,Con,32551,62738,51.9%
+339,"Liverpool, West Derby",Lab,Con,32908,65164,50.5%
+300,Islington North,Lab,Con,33215,74831,44.4%
+48,"Birmingham, Hall Green",Lab,Con,33944,78271,43.4%
+581,Tottenham,Lab,Con,34584,72884,47.5%
+329,"Lewisham, Deptford",Lab,Con,34899,78468,44.5%
+255,Hackney North and Stoke Newington,Lab,Con,35139,85058,41.3%
+41,Bethnal Green and Bow,Lab,Con,35393,86075,41.1%
+336,"Liverpool, Riverside",Lab,Con,35947,76332,47.1%
+68,Bootle,Lab,Con,36200,72872,49.7%
+616,West Ham,Lab,Con,36754,92418,39.8%
+106,Camberwell and Peckham,Lab,Con,37316,85613,43.6%
+91,Bristol West,Lab,Con,37336,93003,40.1%
+256,Hackney South and Shoreditch,Lab,Con,37931,83099,45.6%
+193,East Ham,Lab,Con,39883,83928,47.5%
+315,Knowsley,Lab,Con,42214,81760,51.6%
