@@ -1,9 +1,14 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
 import ReactTable from 'react-table';
 import "react-table/react-table.css";
 import {constituency_data} from './resources/2017_overview_table'
 
 
-export const dataTable = <ReactTable 
+export class DataTable extends React.Component {
+    render(){
+        return (
+                        <ReactTable 
                             data = {constituency_data}
                             /*filterable
                             defaultFilterMethod={(filter, row) =>
@@ -43,3 +48,6 @@ export const dataTable = <ReactTable
                                 ]
                             }
                             /> 
+                        )
+    }
+}
